@@ -12,6 +12,9 @@ Thankfully, every fundraiser pulled from the platform is tied with heaps of usef
 
 ![1](https://user-images.githubusercontent.com/14188580/110266986-8cd34a00-7f84-11eb-97f6-23ec62d68722.PNG)
 
+Since there are two main goals to achieve, the data needed to be organized and filtered. From what was pulled from the Kickstarter platform, the first step was to separate the subcategories from their parent category. By using delimited Text to Columns, I was able to create a column that would easily narrow down "Plays" from the "Theater" category.
+
+
 
 ### Analysis of Outcomes Based on Launch Date
 
