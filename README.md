@@ -31,6 +31,13 @@ What we can infer from this is that the range of targets for fundraisers in the 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/14188580/110330640-9e980a00-7fe3-11eb-97bd-1ba2444b060f.png)
 
+Using the following pivot table, I have visualized the line chart above that shows the results of Theater related Kickstarter fundraisers by month.
+![4](https://user-images.githubusercontent.com/14188580/110345026-becfc500-7ff3-11eb-9be6-22ae656c2168.PNG)
+
+What does this tell us?
+1. It is very clear that May is the most popular month for people to launch their fundraising efforts, resulting in the greatest amount of successful Kickstarters over failed ones.
+2. Kickstarters launched in December have a near-equal amount of fundraisers that succeeded as those that failed, resulting in the lowest success rate.
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
