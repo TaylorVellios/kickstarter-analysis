@@ -59,16 +59,27 @@ This chart is filtered for only Kickstarters listed under "Theater/Plays", and w
 
 Key Takeaways:
  - There is a significant "middle zone" and "top end" of failure that would seem to be asking too much of the play-going market. From $15,000-$30,000 and above $45,000 has a much higher rate of failure than the other price points. To be fair, there are very few data points above the $25,000 mark. Either way, it is safe to say that high budget productions are best fundraised elsewhere.
- - It should come as no surprise that the lower the goal, the higher the likelihood of running a successful Kickstarter campaign. For the data collected, we can see a sweet spot in the $10,000 - $15,000 range
+ - It should come as no surprise that the lower the goal, the higher the likelihood of running a successful Kickstarter campaign. For the data collected, we can see a sweet spot in the $10,000 - $15,000 range that blows much lower-budget fundraisers out of the water with its 83.6% success rate.
 
 ### Challenges and Difficulties Encountered
 
+The biggest challenge with this project was organizing the data in a meaningful way. There is so much raw information tied to a single Kickstarter that there was a lot of shoe-tying before any running could take place. Many Excel sheets had to be made in order to keep pivot tables and charts from changing with new filters on the core data, which led to a very bulky Excel workbook. I will likely have to reupload a trimmed down version of my edited workbook in the future for the sake of others.
+
+The biggest limitation with this dataset is how wide the range of usable data is. For the sake of simplicity, we could remove the outliers of successful Kicksters that are way above the mean, but while they are outliers, they are still valid data points. For anyone hoping to launch a successful fundraiser in the Theater/Play market, the important thing to take away is you need to come into this knowing what your price target is beforehand. With the data points given for the "Plays" subcategory, visualization via a box and whisker chart is not viable.
+
+For example, if a potential client wanted to know what price point they should be considering for a fundraising campaign in Great Britain for a live Musical, the data is much more uniformly distributed compared to what we saw above and can be plotted as such:
+
+![Musicals_GreatBritain_Boxplot](https://user-images.githubusercontent.com/14188580/110385869-1cc8d080-8025-11eb-91a5-920e61032bf1.PNG)
+
+Compared to the significantly less useful model based around "Plays in the US":
+
+![6](https://user-images.githubusercontent.com/14188580/110386470-ef305700-8025-11eb-8910-68c0ae6926dc.PNG)
+
+
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+In conclusion, the data shows that May is the month of the year with the highest success rate of Kickstarters in the live theater category, while December has the lowest.
+Know your market. Based on fundraising goals, we have seen that (generally speaking) the more you ask for, the less likely you are to succeed.
 
-- What can you conclude about the Outcomes based on Goals?
+There is a lot more that can be done with the data that we pulled, and more information to dig into. I believe there is a lot of interesting correlations that could be found in the "Average Donation" and "Number of Backers" columns that could tell us a lot about certain categories of fundraising campaigns. Overall the biggest hindrance on these metrics for live events is their limited geographic reach. Kickstarters for online marketplace products have the ability to reach a global audience, consequently having the opportunity to hit much higher goals and pledge milestones. A play in a live theater, say in New York, would only have a viable backer market of people in that vicinity to attend the event.
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
