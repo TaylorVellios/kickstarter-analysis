@@ -10,6 +10,7 @@ By looking at past Kickstarters, I will be looking for data trends that can assi
 Kickstarter is a vast platform that allows almost anyone to begin a fundraising effort.
 Thankfully, every fundraiser pulled from the platform is tied with heaps of useful data that can be filtered and categorized to hone in our target information.
 
+![1](https://user-images.githubusercontent.com/14188580/110266986-8cd34a00-7f84-11eb-97f6-23ec62d68722.PNG)
 
 
 ### Analysis of Outcomes Based on Launch Date
