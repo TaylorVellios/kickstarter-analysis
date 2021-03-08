@@ -32,13 +32,34 @@ What we can infer from this is that the range of targets for fundraisers in the 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/14188580/110330640-9e980a00-7fe3-11eb-97bd-1ba2444b060f.png)
 
 Using the following pivot table, I have visualized the line chart above that shows the results of Theater related Kickstarter fundraisers by month.
+
 ![4](https://user-images.githubusercontent.com/14188580/110345026-becfc500-7ff3-11eb-9be6-22ae656c2168.PNG)
 
 What does this tell us?
 1. It is very clear that May is the most popular month for people to launch their fundraising efforts, resulting in the greatest amount of successful Kickstarters over failed ones.
-2. Kickstarters launched in December have a near-equal amount of fundraisers that succeeded as those that failed, resulting in the lowest success rate.
+2. Kickstarters launched in December have a near-equal amount of fundraisers that succeeded as those that failed, resulting in the lowest success rate. December is the only month where the failrate moves opposite of the successrate.
+
+Overall the amount of failed Kickstarters doesn't move very much from month to month, but the amount of successful Kickstarters is a wild ride.
+
+Based on these outcomes, I would highly recommend those who aim to start a fundraiser for a live theater event to launch from May through July.
+Conversely, it would not be prudent to launch a Kickstarter nearing the end of the year.
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/14188580/110354104-6998b100-7ffd-11eb-8b4a-8fb3f0125422.png)
+
+Along with understanding what works and what doesn't in regards to timing a Kickstarter, it is crucial to look at the success rate for fundraisers in relation to their fundraising goals.
+Above is a line chart depicting the percentage of Kickstarters that failed and succeeded in each of their asking price-points at launch.
+The X-axis is a series of ranges that represent the goal amounts (in dollars) of Kickstarters.
+
+The key points to look at for someone aiming for a successful Kickstarter are the segments of the chart where the blue line (successes) is above the orange one (fails).
+This chart is filtered for only Kickstarters listed under "Theater/Plays", and would not accurately represent fundraising data for other sectors or topics.
+
+![5](https://user-images.githubusercontent.com/14188580/110357364-d2cdf380-8000-11eb-87c4-09128cd03c91.PNG)
+
+Key Takeaways:
+ - There is a significant "middle zone" and "top end" of failure that would seem to be asking too much of the play-going market. From $15,000-$30,000 and above $45,000 has a much higher rate of failure than the other price points.
+ - Whether a result of 
 
 ### Challenges and Difficulties Encountered
 
