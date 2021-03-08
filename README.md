@@ -58,8 +58,8 @@ This chart is filtered for only Kickstarters listed under "Theater/Plays", and w
 ![5](https://user-images.githubusercontent.com/14188580/110357364-d2cdf380-8000-11eb-87c4-09128cd03c91.PNG)
 
 Key Takeaways:
- - There is a significant "middle zone" and "top end" of failure that would seem to be asking too much of the play-going market. From $15,000-$30,000 and above $45,000 has a much higher rate of failure than the other price points.
- - Whether a result of 
+ - There is a significant "middle zone" and "top end" of failure that would seem to be asking too much of the play-going market. From $15,000-$30,000 and above $45,000 has a much higher rate of failure than the other price points. To be fair, there are very few data points above the $25,000 mark. Either way, it is safe to say that high budget productions are best fundraised elsewhere.
+ - It should come as no surprise that the lower the goal, the higher the likelihood of running a successful Kickstarter campaign. For the data collected, we can see a sweet spot in the $10,000 - $15,000 range
 
 ### Challenges and Difficulties Encountered
 
